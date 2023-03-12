@@ -94,7 +94,7 @@ function App() {
               >
                 Get Started
               </Button>
-              <Link href="https://github.com/SouravBandyopadhyay" isExternal>
+              <Link href="https://github.com/SouravBandyopadhyay/Quiz-Game" isExternal>
                 <Button
                   leftIcon={<FaGithub />}
                   colorScheme="gray"
